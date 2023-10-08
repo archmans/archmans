@@ -14,5 +14,3 @@ Hello! I'm Muhamad Salman Hakim Alfarisi, a third-year informatics student at Ba
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archmans&langs_count=10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
