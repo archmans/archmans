@@ -9,5 +9,5 @@ Hello! I'm Muhamad Salman Hakim Alfarisi, a third-year informatics student at Ba
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=archmans&langs_count=10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact&&exclude_repo=KK5-Survival-Shooter,Jahitin,Jahitin-PHP
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=archmans&langs_count=10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact&&exclude_repo=KK5-Survival-Shooter,Jahitin,Jahitin-PHP,Praktikum-Machine-Learning
 )
