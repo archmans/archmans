@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hello! I'm Muhamad Salman Hakim Alfarisi, a third-year informatics student at Bandung Institute of Technology. I have a strong passion for mobile and web development. I'm excited to collaborate, learn, and contribute to the world of technology. Let's connect and embark on this journey together!
 
 # Tech Stack:
